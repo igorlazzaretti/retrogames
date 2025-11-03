@@ -39,10 +39,17 @@ function filterGames(console) {
     currentFilter = console;
     renderGames();
 
+    // Remove a classe active de todos os itens
     document.querySelectorAll('.nav-menu li').forEach(li => {
         li.classList.remove('active');
     });
     event.target.classList.add('active');
+
+    // Fecha o menu hamburguer em telas móveis
+    const navMenu = document.getElementById('navMenu');
+    if (navMenu.classList.contains('active')) {
+        navMenu.classList.remove('active');
+    }
 }
 
 function openGame(url) {

@@ -506,6 +506,9 @@ footer>div:last-child strong {
     .game-container {
         flex-direction: column;
     }
+    #gameMain {
+        padding: 0 0.5rem;
+    }
 
     #gameFrame, #gameInfo {
         width: 100%;
@@ -513,5 +516,7 @@ footer>div:last-child strong {
     }
     #gameFrame {
         min-width: 200px;
+        width: 100%;
+        height: 85vh;
     }
 }
