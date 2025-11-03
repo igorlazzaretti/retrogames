@@ -1,13 +1,13 @@
 <!--
 :video_game: Retro Games
-Commit: First Commit
+Commit: First Version, add DCK
  -->
 
 <div align="center">
-  <img src="https://igorlazzaretti.github.io/currency-converter/assets/midia/gif-capa-currency.gif">
+  <img src="https://igorlazzaretti.github.io/retrogames/assets/readme-cover.gif">
 </div>
 
-# 💱 Retro Games
+# 🎮 Retro Games
 
 Projeto frontend simples que lista e permite filtrar jogos retrô em uma grade responsiva. Foi desenvolvido com HTML, CSS e JavaScript — foco em layout responsivo, temas claro/escuro, e uma interface limpa para navegar pelos jogos.
 
@@ -16,7 +16,7 @@ Este repositório contém a versão local do site "Retro Games". Ele não depend
 - HTML e CSS para a estrutura do site.
 - Javascript para o funcionamento do site e a criação de novos games.
 
-- Confira o projeto neste <a href="https://igorlazzaretti.github.io/currency-converter"> link</a>.
+- Confira o projeto neste <a href="https://igorlazzaretti.github.io/retrogames/"> link</a>.
 - Fotos do Projeto neste <a href="https://flic.kr/s/aHBqjCyqp9">link</a>.
 
 ## 🚀 Tecnologias Utilizadas

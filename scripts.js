@@ -2,7 +2,7 @@
 const games = [
     { title: 'Super Mario World', console: 'snes', image: 'assets/images/mario.webp', url: 'game/super-mario-world.html' },
     { title: 'The Legend of Zelda', console: 'snes', image: 'assets/images/default.png', url: '#' },
-    { title: 'Donkey Kong Country', console: 'snes', image: 'assets/images/default.png', url: '#' },
+    { title: 'Donkey Kong Country', console: 'snes', image: 'assets/images/dkc.png', url: 'game/donkey-kong-country.html' },
     { title: 'Sonic the Hedgehog', console: 'megadrive', image: 'assets/images/default.png', url: '#' },
     { title: 'Streets of Rage 2', console: 'megadrive', image: 'assets/images/default.png', url: '#' },
     { title: 'Golden Axe', console: 'megadrive', image: 'assets/images/default.png', url: '#' },
