@@ -1,12 +1,17 @@
 
 const games = [
-    { title: 'Super Mario World', console: 'snes', image: 'assets/images/mario.webp', url: 'game/super-mario-world.html' },
-    { title: 'The Legend of Zelda', console: 'snes', image: 'assets/images/default.png', url: '#' },
-    { title: 'Donkey Kong Country', console: 'snes', image: 'assets/images/dkc.png', url: 'game/donkey-kong-country.html' },
+    { title: 'Super Mario World', console: 'snes', image: 'assets/images/mario.webp', url: 'games/super-mario-world.html' },
+    { title: 'Mario Kart Deluxe', console: 'snes', image: 'assets/images/mario-kart.png', url: 'games/mario-kart.html' },
+    { title: 'Crash Team Racing', console: 'playstation', image: 'assets/images/ctr.png', url: 'games/ctr.html' },
+    { title: 'Harry Potter And The Sorcerers Stone (USA)', console: 'playstation', image: 'assets/images/hp-stone.png', url: 'games/hp-sorcerer-stone.html' },
+    { title: 'Donkey Kong Country', console: 'snes', image: 'assets/images/dkc.png', url: 'games/donkey-kong-country.html' },
+    { title: 'PES 2', console: 'playstation', image: 'assets/images/pes2.png', url: 'games/PES-2.html' },
+    { title: 'Pac-Man', console: 'outros', image: 'assets/images/pac.png', url: 'games/pac-man.html' },
     { title: 'Sonic the Hedgehog', console: 'megadrive', image: 'assets/images/default.png', url: '#' },
     { title: 'Streets of Rage 2', console: 'megadrive', image: 'assets/images/default.png', url: '#' },
     { title: 'Golden Axe', console: 'megadrive', image: 'assets/images/default.png', url: '#' },
     { title: 'Final Fantasy VII', console: 'playstation', image: 'assets/images/default.png', url: '#' },
+    { title: 'The Legend of Zelda', console: 'snes', image: 'assets/images/default.png', url: '#' },
     { title: 'Crash Bandicoot', console: 'playstation', image: 'assets/images/default.png', url: '#' },
     { title: 'Metal Gear Solid', console: 'playstation', image: 'assets/images/default.png', url: '#' },
 ];

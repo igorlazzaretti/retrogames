@@ -1,6 +1,6 @@
 <!--
 :video_game: Retro Games
-Commit: First Version, OG
+Commit: First Version, add some games
  -->
 
 <div align="center">
