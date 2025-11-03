@@ -1,6 +1,6 @@
 <!--
 :video_game: Retro Games
-Commit: First Version, add DCK
+Commit: First Version, OG
  -->
 
 <div align="center">
