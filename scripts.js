@@ -14,6 +14,7 @@ const games = [
     { title: 'Super Bomberman 4', console: 'nintendo', image: 'assets/images/super-bomb-4.png', url: 'games/super-bomb-4.html' },
     { title: 'Vigilante 8 - 2nd Offense', console: 'playstation', image: 'assets/images/vigilante-8.png', url: 'games/vigilante-8-2nd-ofense.html' },
     { title: 'Mario Kart 64', console: 'nintendo', image: 'assets/images/mario-kart-64.png', url: 'games/mario-kart-64.html' },
+    { title: 'Crash Bandicoot', console: 'playstation', image: 'assets/images/crash-bandi.png', url: 'games/crash-bandi.html' },
 ];
 
 let currentFilter = 'all';

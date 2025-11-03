@@ -1,6 +1,6 @@
 <!--
 :video_game: Retro Games
-Commit: First Version, add dbz and
+Commit: First Version, menu logo and grid
  -->
 
 <div align="center">
