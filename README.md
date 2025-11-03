@@ -1,0 +1,37 @@
+<!--
+:video_game: Retro Games
+Commit: First Commit
+ -->
+
+<div align="center">
+  <img src="https://igorlazzaretti.github.io/currency-converter/assets/midia/gif-capa-currency.gif">
+</div>
+
+# 💱 Retro Games
+
+Projeto frontend simples que lista e permite filtrar jogos retrô em uma grade responsiva. Foi desenvolvido com HTML, CSS e JavaScript — foco em layout responsivo, temas claro/escuro, e uma interface limpa para navegar pelos jogos.
+
+Este repositório contém a versão local do site "Retro Games". Ele não depende de backend: basta abrir `index.html` em um navegador.
+
+- HTML e CSS para a estrutura do site.
+- Javascript para o funcionamento do site e a criação de novos games.
+
+- Confira o projeto neste <a href="https://igorlazzaretti.github.io/currency-converter"> link</a>.
+- Fotos do Projeto neste <a href="https://flic.kr/s/aHBqjCyqp9">link</a>.
+
+## 🚀 Tecnologias Utilizadas
+
+**Front-End:** HTML, CSS e JavaScript;
+
+### Principais recursos:
+- 🎨 **Design:** Adaptação de GIF da série;
+- 🧩 **Organização:** Estrutura limpa e escalável;
+- 🔗 **Dados:** Não possui consumo de dados;
+- 📱 **Layout Responsivo:** Compatível com dispositivos móveis;
+
+## 👨‍💻 Desenvolvedor
+
+**Igor Dossin Lazzaretti**
+🔗 [LinkedIn](https://www.linkedin.com/in/igorlazzaretti/)
+🌐 [Portfólio](https://igorlazzaretti.com/)
+💻 [Projetos GitHub](https://github.com/igorlazzaretti?tab=repositories)

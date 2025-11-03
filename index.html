@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retro Games</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="assets/icons/favicon.svg" type="image/x-icon">
+</head>
+
+<body data-theme="dark">
+    <header>
+        <div class="header-content">
+            <div class="logo">🎮 RETRO GAMES</div>
+
+            <div class="hamburger" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+            </div>
+
+            <nav>
+                <ul class="nav-menu" id="navMenu">
+                    <li onclick="filterGames('all')" class="active">TODOS</li>
+                    <li onclick="filterGames('snes')">SNES</li>
+                    <li onclick="filterGames('megadrive')">MEGADRIVE</li>
+                    <li onclick="filterGames('playstation')">PLAYSTATION</li>
+                </ul>
+            </nav>
+
+            <button class="theme-toggle" onclick="toggleTheme()">
+                <span class="theme-icon" id="themeIcon">☀️</span>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <div class="games-grid" id="gamesGrid"></div>
+    </main>
+
+    <footer id="footer">
+        <div>
+            <div>
+                <div>
+                    <div>
+                        <a href="index.html" class="footer-logo">
+                            <span>🎮 RETRO GAMES</span>
+                        </a>
+                        <p>Um site para jogar seus games retrô favoritos.</p>
+                        <div class="social-links">
+                            <a href="https://www.linkedin.com/in/igorlazzaretti/" target="_blank"><i
+                                    class="bi bi-linkedin"></i></a>
+                            <a href="https://github.com/igorlazzaretti" target="_blank"><i class="bi bi-github"></i></a>
+                            <a href="https://x.com/idlazzaretti" target="_blank"><i class="bi bi-twitter-x"></i></a>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4>Outros Projetos</h4>
+                        <ul>
+                            <li><a href="https://igorlazzaretti.github.io/leituras/"  target="_blank">leituras</a></li>
+                            <li><a href="https://ivangelica.com.br/"                  target="_blank">ivangélica.com</a></li>
+                            <li><a href="https://dossinodontologia.com.br/"           target="_blank">dossinodontologia.com</a></li>
+                            <li><a href="https://scratch.mit.edu/projects/846826964/" target="_blank">meu jogo harry-pong</a></li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4>Meus Links</h4>
+                        <ul>
+                            <li><a href="https://github.com/igorlazzaretti" target="_blank">GitHub</a></li>
+                            <li><a href="https://igorlazzaretti.com/" target="_blank">Portfólio</a></li>
+                            <li><a href="https://igorlazzaretti.com/#sobre" target="_blank">Quer um site?</a></li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4>Contato</h4>
+                        <p>Caxias do Sul (RS)</p>
+                        <p>Brasil</p>
+                        <p><strong>Fone:</strong> <span>54 99948-9840</span></p>
+                        <p><strong>Email:</strong> <span>idlazzaretti@gmail.com</span></p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <p><strong>RETRO GAMES</strong> © Este site não captura nenhum dado seu. O Emulador é originado do site retrogames.cc</p>
+        </div>
+
+    </footer>
+</body>
+<script src="scripts.js"></script>
+
+</html>
