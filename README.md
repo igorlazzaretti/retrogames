@@ -1,6 +1,6 @@
 <!--
 :video_game: Retro Games
-Commit: First Version, add some games
+Commit: First Version, add dbz and
  -->
 
 <div align="center">

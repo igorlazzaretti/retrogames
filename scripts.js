@@ -1,19 +1,19 @@
 
 const games = [
-    { title: 'Super Mario World', console: 'snes', image: 'assets/images/mario.webp', url: 'games/super-mario-world.html' },
-    { title: 'Mario Kart Deluxe', console: 'snes', image: 'assets/images/mario-kart.png', url: 'games/mario-kart.html' },
+    { title: 'Super Mario World', console: 'nintendo', image: 'assets/images/mario.webp', url: 'games/super-mario-world.html' },
+    { title: 'Mario Kart Deluxe', console: 'nintendo', image: 'assets/images/mario-kart.png', url: 'games/mario-kart.html' },
     { title: 'Crash Team Racing', console: 'playstation', image: 'assets/images/ctr.png', url: 'games/ctr.html' },
     { title: 'Harry Potter And The Sorcerers Stone (USA)', console: 'playstation', image: 'assets/images/hp-stone.png', url: 'games/hp-sorcerer-stone.html' },
-    { title: 'Donkey Kong Country', console: 'snes', image: 'assets/images/dkc.png', url: 'games/donkey-kong-country.html' },
+    { title: 'Donkey Kong Country', console: 'nintendo', image: 'assets/images/dkc.png', url: 'games/donkey-kong-country.html' },
     { title: 'PES 2', console: 'playstation', image: 'assets/images/pes2.png', url: 'games/PES-2.html' },
     { title: 'Pac-Man', console: 'outros', image: 'assets/images/pac.png', url: 'games/pac-man.html' },
-    { title: 'Sonic the Hedgehog', console: 'megadrive', image: 'assets/images/default.png', url: '#' },
-    { title: 'Streets of Rage 2', console: 'megadrive', image: 'assets/images/default.png', url: '#' },
-    { title: 'Golden Axe', console: 'megadrive', image: 'assets/images/default.png', url: '#' },
-    { title: 'Final Fantasy VII', console: 'playstation', image: 'assets/images/default.png', url: '#' },
-    { title: 'The Legend of Zelda', console: 'snes', image: 'assets/images/default.png', url: '#' },
-    { title: 'Crash Bandicoot', console: 'playstation', image: 'assets/images/default.png', url: '#' },
-    { title: 'Metal Gear Solid', console: 'playstation', image: 'assets/images/default.png', url: '#' },
+    { title: 'Dragon Ball Z - Final Bout', console: 'playstation', image: 'assets/images/db-gt-fb.png', url: 'games/db-gt-final-bout.html' },
+    { title: 'Top Gear', console: 'nintendo', image: 'assets/images/top-gear.png', url: 'games/top-gear.html' },
+    { title: 'F-Zero', console: 'nintendo', image: 'assets/images/f-zero.png', url: 'games/f-zero.html' },
+    { title: 'Super Ghoulsn Ghosts', console: 'nintendo', image: 'assets/images/super-ghouls.png', url: 'games/super-ghouls-n-ghost.html' },
+    { title: 'Super Bomberman 4', console: 'nintendo', image: 'assets/images/super-bomb-4.png', url: 'games/super-bomb-4.html' },
+    { title: 'Vigilante 8 - 2nd Offense', console: 'playstation', image: 'assets/images/vigilante-8.png', url: 'games/vigilante-8-2nd-ofense.html' },
+    { title: 'Mario Kart 64', console: 'nintendo', image: 'assets/images/mario-kart-64.png', url: 'games/mario-kart-64.html' },
 ];
 
 let currentFilter = 'all';
