@@ -3,7 +3,7 @@ const games = [
     { title: 'Super Mario World', console: 'nintendo', image: 'assets/images/mario.webp', url: 'games/super-mario-world.html' },
     { title: 'Mario Kart Deluxe', console: 'nintendo', image: 'assets/images/mario-kart.png', url: 'games/mario-kart.html' },
     { title: 'Crash Team Racing', console: 'playstation', image: 'assets/images/ctr.png', url: 'games/ctr.html' },
-    { title: 'Harry Potter And The Sorcerers Stone (USA)', console: 'playstation', image: 'assets/images/hp-stone.png', url: 'games/hp-sorcerer-stone.html' },
+    { title: 'Harry Potter And The Sorcerers Stone', console: 'playstation', image: 'assets/images/hp-stone.png', url: 'games/hp-sorcerer-stone.html' },
     { title: 'Donkey Kong Country', console: 'nintendo', image: 'assets/images/dkc.png', url: 'games/donkey-kong-country.html' },
     { title: 'PES 2', console: 'playstation', image: 'assets/images/pes2.png', url: 'games/PES-2.html' },
     { title: 'Pac-Man', console: 'outros', image: 'assets/images/pac.png', url: 'games/pac-man.html' },
@@ -15,6 +15,9 @@ const games = [
     { title: 'Vigilante 8 - 2nd Offense', console: 'playstation', image: 'assets/images/vigilante-8.png', url: 'games/vigilante-8-2nd-ofense.html' },
     { title: 'Mario Kart 64', console: 'nintendo', image: 'assets/images/mario-kart-64.png', url: 'games/mario-kart-64.html' },
     { title: 'Crash Bandicoot', console: 'playstation', image: 'assets/images/crash-bandi.png', url: 'games/crash-bandi.html' },
+    { title: 'Michael Jackson Moonwalker', console: 'megadrive', image: 'assets/images/mj-moonwalker.png', url: 'games/mj-moonwalker.html' },
+    { title: 'Super Monaco GP', console: 'megadrive', image: 'assets/images/super-monaco-gp.png', url: 'games/super-monaco-gp.html' },
+    { title: 'Pokemon FireRed', console: 'nintendo', image: 'assets/images/pokemon-fr.png', url: 'games/pokemon-fr.html' },
 ];
 
 let currentFilter = 'all';

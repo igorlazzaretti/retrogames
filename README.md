@@ -1,6 +1,6 @@
 <!--
 :video_game: Retro Games
-Commit: First Version, menu logo and grid
+Commit: Pokemon FireRed
  -->
 
 <div align="center">
