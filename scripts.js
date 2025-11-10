@@ -11,6 +11,7 @@ const games = [
     { title: 'Top Gear', console: 'nintendo', image: 'assets/images/top-gear.png', url: 'games/top-gear.html' },
     { title: 'F-Zero', console: 'nintendo', image: 'assets/images/f-zero.png', url: 'games/f-zero.html' },
     { title: 'Super Ghoulsn Ghosts', console: 'nintendo', image: 'assets/images/super-ghouls.png', url: 'games/super-ghouls-n-ghost.html' },
+    { title: 'Sunset Riders', console: 'nintendo', image: 'assets/images/sunset-riders.png', url: 'games/sunset-riders.html' },
     { title: 'Super Bomberman 4', console: 'nintendo', image: 'assets/images/super-bomb-4.png', url: 'games/super-bomb-4.html' },
     { title: 'Vigilante 8 - 2nd Offense', console: 'playstation', image: 'assets/images/vigilante-8.png', url: 'games/vigilante-8-2nd-ofense.html' },
     { title: 'Mario Kart 64', console: 'nintendo', image: 'assets/images/mario-kart-64.png', url: 'games/mario-kart-64.html' },

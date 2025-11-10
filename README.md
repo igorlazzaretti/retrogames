@@ -1,6 +1,6 @@
 <!--
 :video_game: Retro Games
-Commit: Pokemon FireRed
+Commit: Pokemon FireR
  -->
 
 <div align="center">
