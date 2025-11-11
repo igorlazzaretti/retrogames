@@ -1,6 +1,6 @@
 <!--
 :video_game: Retro Games
-Commit: Pokemon FireR
+Commit: Readme Sponsor
  -->
 
 <div align="center">
@@ -15,7 +15,6 @@ Este repositório contém a versão local do site "Retro Games". Ele não depend
 
 - HTML e CSS para a estrutura do site.
 - Javascript para o funcionamento do site e a criação de novos games.
-
 - Confira o projeto neste <a href="https://igorlazzaretti.github.io/retrogames/"> link</a>.
 - Fotos do Projeto neste <a href="https://flic.kr/s/aHBqjCyqp9">link</a>.
 
@@ -24,10 +23,21 @@ Este repositório contém a versão local do site "Retro Games". Ele não depend
 **Front-End:** HTML, CSS e JavaScript;
 
 ### Principais recursos:
+
 - 🎨 **Design:** Adaptação de GIF da série;
 - 🧩 **Organização:** Estrutura limpa e escalável;
 - 🔗 **Dados:** Não possui consumo de dados;
 - 📱 **Layout Responsivo:** Compatível com dispositivos móveis;
+
+## ❤️ Ajude um Desenvolvedor
+
+Se você gostou do site e de entrar rapidamente seu jogo retro favorito, considere ajudar o desenvolvedor com um valor simbólico.
+
+If you liked the site and quickly jumping into your favorite retro game, consider helping the developer with a symbolic amount.
+
+  <a href="https://github.com/sponsors/igorlazzaretti">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor on GitHub" />
+  </a>
 
 ## 👨‍💻 Desenvolvedor
 
