@@ -19,6 +19,9 @@ const games = [
     { title: 'Michael Jackson Moonwalker', console: 'megadrive', image: 'assets/images/mj-moonwalker.png', url: 'games/mj-moonwalker.html' },
     { title: 'Super Monaco GP', console: 'megadrive', image: 'assets/images/super-monaco-gp.png', url: 'games/super-monaco-gp.html' },
     { title: 'Pokemon FireRed', console: 'nintendo', image: 'assets/images/pokemon-fr.png', url: 'games/pokemon-fr.html' },
+    { title: 'Top Gear 3000', console: 'nintendo', image: 'assets/images/tg3000.png', url: 'games/top-gear-3000.html' },
+    { title: 'International Superstar Soccer Deluxe', console: 'nintendo', image: 'assets/images/internacional-superstar-soccer-deluxe.png', url: 'games/international.html' },
+    { title: 'Road Rash - Jailbreak', console: 'playstation', image: 'assets/images/road-rash-jailbreak.png', url: 'games/road-rash-jailbreak.html' },
 ];
 
 let currentFilter = 'all';
