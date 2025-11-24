@@ -23,6 +23,7 @@ const games = [
     { title: 'International Superstar Soccer Deluxe', console: 'nintendo', image: 'assets/images/internacional-superstar-soccer-deluxe.png', url: 'games/international.html' },
     { title: 'Road Rash - Jailbreak', console: 'playstation', image: 'assets/images/road-rash-jailbreak.png', url: 'games/road-rash-jailbreak.html' },
     { title: 'Goof Troop', console: 'nintendo', image: 'assets/images/goof-troop.png', url: 'games/goof-troop.html' },
+    { title: 'Rock N Roll Racing', console: 'nintendo', image: 'assets/images/rock-n-roll-racing.png', url: 'games/rock-n-roll-racing.html' },
 ];
 
 let currentFilter = 'all';
