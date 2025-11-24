@@ -22,6 +22,7 @@ const games = [
     { title: 'Top Gear 3000', console: 'nintendo', image: 'assets/images/tg3000.png', url: 'games/top-gear-3000.html' },
     { title: 'International Superstar Soccer Deluxe', console: 'nintendo', image: 'assets/images/internacional-superstar-soccer-deluxe.png', url: 'games/international.html' },
     { title: 'Road Rash - Jailbreak', console: 'playstation', image: 'assets/images/road-rash-jailbreak.png', url: 'games/road-rash-jailbreak.html' },
+    { title: 'Goof Troop', console: 'nintendo', image: 'assets/images/goof-troop.png', url: 'games/goof-troop.html' },
 ];
 
 let currentFilter = 'all';
