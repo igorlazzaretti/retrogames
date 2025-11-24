@@ -1,6 +1,6 @@
 <!--
 :video_game: Retro Games
-Commit: Games: ISSD, Road Rash e Top Gear 3000
+Commit: Game Goof Troop
  -->
 
 <div align="center">
