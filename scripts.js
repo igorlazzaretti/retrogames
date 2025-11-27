@@ -25,6 +25,7 @@ const games = [
     { title: 'Goof Troop', console: 'nintendo', image: 'assets/images/goof-troop.png', url: 'games/goof-troop.html' },
     { title: 'Rock N Roll Racing', console: 'nintendo', image: 'assets/images/rock-n-roll-racing.png', url: 'games/rock-n-roll-racing.html' },
     { title: 'Sicari 2: The Brink of Time', console: 'nintendo', image: 'assets/images/sicari2.png', url: 'games/sicari-2-the-brink-of-time.html' },
+    { title: 'Tekken 3', console: 'playstation', image: 'assets/images/tekken3.webp', url: 'games/tekken-3.html' },
 ];
 
 let currentFilter = 'all';

@@ -1,8 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Sicari 2 The Brick of Time
-Details: Html e png
+Commit: Ttekken 3
  -->
 
 <div align="center">
