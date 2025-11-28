@@ -26,7 +26,12 @@ const games = [
     { title: 'Rock N Roll Racing', console: 'nintendo', image: 'assets/images/rock-n-roll-racing.png', url: 'games/rock-n-roll-racing.html' },
     { title: 'Sicari 2: The Brink of Time', console: 'nintendo', image: 'assets/images/sicari2.png', url: 'games/sicari-2-the-brink-of-time.html' },
     { title: 'Tekken 3', console: 'playstation', image: 'assets/images/tekken3.webp', url: 'games/tekken-3.html' },
-    { title: 'Tekken 3', console: 'megadrive', image: 'assets/images/sonic.webp', url: 'games/sonic-the-headgehog.html' },
+    { title: 'Sonic', console: 'megadrive', image: 'assets/images/sonic.webp', url: 'games/sonic-the-headgehog.html' },
+    { title: 'Sonic 2', console: 'megadrive', image: 'assets/images/sonic2.webp', url: 'games/sonic-the-headgehog-2.html' },
+    { title: 'Tony Hawks Pro Skater', console: 'playstation', image: 'assets/images/tony.webp', url: 'games/tony-hawks-pro-skater.html' },
+    { title: 'Tony Hawks Pro Skater 2', console: 'playstation', image: 'assets/images/tony2.webp', url: 'games/tony-hawks-pro-skater-2.html' },
+    { title: 'Tony Hawks Pro Skater 3', console: 'playstation', image: 'assets/images/tony3.webp', url: 'games/tony-hawks-pro-skater-3.html' },
+    { title: 'Tony Hawks Pro Skater 4', console: 'playstation', image: 'assets/images/tony4.webp', url: 'games/tony-hawks-pro-skater-4.html' },
 ];
 
 let currentFilter = 'all';
