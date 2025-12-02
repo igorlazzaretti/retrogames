@@ -33,6 +33,7 @@ const games = [
     { title: 'Tony Hawks Pro Skater 3', console: 'playstation', image: 'assets/images/tony3.webp', url: 'games/tony-hawks-pro-skater-3.html' },
     { title: 'Tony Hawks Pro Skater 4', console: 'playstation', image: 'assets/images/tony4.webp', url: 'games/tony-hawks-pro-skater-4.html' },
     { title: 'Prince of Persia', console: 'megadrive', image: 'assets/images/prince-of-persia.webp', url: 'games/prince-of-persia.html' },
+    { title: '0007 - The World Is Not Enough', console: 'playstation', image: 'assets/images/007-twine.webp', url: 'games/007-the-world-is-not-enough.html' },
 ];
 
 let currentFilter = 'all';
