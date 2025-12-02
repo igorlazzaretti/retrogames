@@ -1,7 +1,7 @@
 
 const games = [
     { title: 'Super Mario World', console: 'nintendo', image: 'assets/images/mario.webp', url: 'games/super-mario-world.html' },
-    { title: 'Mario Kart Deluxe', console: 'nintendo', image: 'assets/images/mario-kart.png', url: 'games/mario-kart.html' },
+    { title: 'Mario Kart Deluxe', console: 'nintendo', image: 'assets/images/mario-kart.webp', url: 'games/mario-kart.html' },
     { title: 'Crash Team Racing', console: 'playstation', image: 'assets/images/ctr.webp', url: 'games/ctr.html' },
     { title: 'Harry Potter And The Sorcerers Stone', console: 'playstation', image: 'assets/images/hp-stone.webp', url: 'games/hp-sorcerer-stone.html' },
     { title: 'Donkey Kong Country', console: 'nintendo', image: 'assets/images/dkc.png', url: 'games/donkey-kong-country.html' },
@@ -17,7 +17,7 @@ const games = [
     { title: 'Mario Kart 64', console: 'nintendo', image: 'assets/images/mario-kart-64.png', url: 'games/mario-kart-64.html' },
     { title: 'Crash Bandicoot', console: 'playstation', image: 'assets/images/crash-bandi.webp', url: 'games/crash-bandi.html' },
     { title: 'Michael Jackson Moonwalker', console: 'megadrive', image: 'assets/images/mj-moonwalker.png', url: 'games/mj-moonwalker.html' },
-    { title: 'Super Monaco GP', console: 'megadrive', image: 'assets/images/super-monaco-gp.png', url: 'games/super-monaco-gp.html' },
+    { title: 'Super Monaco GP', console: 'megadrive', image: 'assets/images/super-monaco-gp.webp', url: 'games/super-monaco-gp.html' },
     { title: 'Pokemon FireRed', console: 'nintendo', image: 'assets/images/pokemon-fr.png', url: 'games/pokemon-fr.html' },
     { title: 'Top Gear 3000', console: 'nintendo', image: 'assets/images/tg3000.webp', url: 'games/top-gear-3000.html' },
     { title: 'International Superstar Soccer Deluxe', console: 'nintendo', image: 'assets/images/internacional-superstar-soccer-deluxe.png', url: 'games/international.html' },
@@ -32,6 +32,7 @@ const games = [
     { title: 'Tony Hawks Pro Skater 2', console: 'playstation', image: 'assets/images/tony2.webp', url: 'games/tony-hawks-pro-skater-2.html' },
     { title: 'Tony Hawks Pro Skater 3', console: 'playstation', image: 'assets/images/tony3.webp', url: 'games/tony-hawks-pro-skater-3.html' },
     { title: 'Tony Hawks Pro Skater 4', console: 'playstation', image: 'assets/images/tony4.webp', url: 'games/tony-hawks-pro-skater-4.html' },
+    { title: 'Prince of Persia', console: 'megadrive', image: 'assets/images/prince-of-persia.webp', url: 'games/prince-of-persia.html' },
 ];
 
 let currentFilter = 'all';
