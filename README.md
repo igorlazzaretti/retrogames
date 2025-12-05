@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Aladdin e Turma da Monica
+Commit: Diversos ajustes de sobre 
 
  -->
 
