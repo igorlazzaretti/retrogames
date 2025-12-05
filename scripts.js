@@ -13,7 +13,7 @@ const games = [
     { title: 'Super Ghoulsn Ghosts', console: 'nintendo', image: 'assets/images/super-ghouls.png', url: 'games/super-ghouls-n-ghost.html' },
     { title: 'Sunset Riders', console: 'nintendo', image: 'assets/images/sunset-riders.png', url: 'games/sunset-riders.html' },
     { title: 'Super Bomberman 4', console: 'nintendo', image: 'assets/images/super-bomb-4.png', url: 'games/super-bomb-4.html' },
-    { title: 'Vigilante 8 - 2nd Offense', console: 'playstation', image: 'assets/images/vigilante-8.png', url: 'games/vigilante-8-2nd-ofense.html' },
+    { title: 'Vigilante 8 - 2nd Offense', console: 'playstation', image: 'assets/images/vigilante-8.webp', url: 'games/vigilante-8-2nd-ofense.html' },
     { title: 'Mario Kart 64', console: 'nintendo', image: 'assets/images/mario-kart-64.png', url: 'games/mario-kart-64.html' },
     { title: 'Crash Bandicoot', console: 'playstation', image: 'assets/images/crash-bandi.webp', url: 'games/crash-bandi.html' },
     { title: 'Michael Jackson Moonwalker', console: 'megadrive', image: 'assets/images/mj-moonwalker.png', url: 'games/mj-moonwalker.html' },
@@ -33,8 +33,10 @@ const games = [
     { title: 'Tony Hawks Pro Skater 3', console: 'playstation', image: 'assets/images/tony3.webp', url: 'games/tony-hawks-pro-skater-3.html' },
     { title: 'Tony Hawks Pro Skater 4', console: 'playstation', image: 'assets/images/tony4.webp', url: 'games/tony-hawks-pro-skater-4.html' },
     { title: 'Prince of Persia', console: 'megadrive', image: 'assets/images/prince-of-persia.webp', url: 'games/prince-of-persia.html' },
-    { title: '0007 - The World Is Not Enough', console: 'playstation', image: 'assets/images/007-twine.webp', url: 'games/007-the-world-is-not-enough.html' },
+    { title: '007 - The World Is Not Enough', console: 'playstation', image: 'assets/images/007-twine.webp', url: 'games/007-the-world-is-not-enough.html' },
     { title: 'Spider-Man', console: 'playstation', image: 'assets/images/spider-man.webp', url: 'games/spider-man.html' },
+    { title: 'Aladdin', console: 'nintendo', image: 'assets/images/aladdin.webp', url: 'games/aladdin.html' },
+    { title: 'Turma da Monica: O Resgate', console: 'megadrive', image: 'assets/images/turma-da-monica.webp', url: 'games/turma-da-monica-o-resgate.html' },
 ];
 
 let currentFilter = 'all';
