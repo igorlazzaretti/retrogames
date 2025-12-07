@@ -37,6 +37,7 @@ const games = [
     { title: 'Spider-Man', console: 'playstation', image: 'assets/images/spider-man.webp', url: 'games/spider-man.html' },
     { title: 'Aladdin', console: 'nintendo', image: 'assets/images/aladdin.webp', url: 'games/aladdin.html' },
     { title: 'Turma da Monica: O Resgate', console: 'megadrive', image: 'assets/images/turma-da-monica.webp', url: 'games/turma-da-monica-o-resgate.html' },
+    { title: 'Super Smash Bros', console: 'nintendo', image: 'assets/images/super-mash-bros.webp', url: 'games/super-mash-bros.html' },
 ];
 
 let currentFilter = 'all';
