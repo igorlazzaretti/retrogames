@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Harry Potter and the Chamber of Secrets
+Commit: Final Fantasy Chronicles - Chrono Trigger
 
  -->
 
