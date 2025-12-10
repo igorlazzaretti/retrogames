@@ -39,6 +39,7 @@ const games = [
     { title: 'Aladdin', console: 'nintendo', image: 'assets/images/aladdin.webp', url: 'games/aladdin.html' },
     { title: 'Turma da Monica: O Resgate', console: 'megadrive', image: 'assets/images/turma-da-monica.webp', url: 'games/turma-da-monica-o-resgate.html' },
     { title: 'Super Smash Bros', console: 'nintendo', image: 'assets/images/super-smash-bros.webp', url: 'games/super-smash-bros.html' },
+    { title: 'Final Fantasy Chronicles - Chrono Trigger', console: 'playstation', image: 'assets/images/ff-chrono.webp', url: 'games/final-fantasy-chronicles-chrono-trigger.html' },
 ];
 
 let currentFilter = 'all';
