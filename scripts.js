@@ -40,6 +40,7 @@ const games = [
     { title: 'Turma da Monica: O Resgate', console: 'megadrive', image: 'assets/images/turma-da-monica.webp', url: 'games/turma-da-monica-o-resgate.html' },
     { title: 'Super Smash Bros', console: 'nintendo', image: 'assets/images/super-smash-bros.webp', url: 'games/super-smash-bros.html' },
     { title: 'Final Fantasy Chronicles - Chrono Trigger', console: 'playstation', image: 'assets/images/ff-chrono.webp', url: 'games/final-fantasy-chronicles-chrono-trigger.html' },
+    { title: 'Speedy Gonzales in Los Gatos Bandidos', console: 'nintendo', image: 'assets/images/ligeirinho.webp', url: 'games/speedy-gonzales-in-los-gatos-bandidos.html' },
 ];
 
 let currentFilter = 'all';
