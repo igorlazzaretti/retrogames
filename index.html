@@ -30,13 +30,17 @@
             <nav>
                 <ul class="nav-menu" id="navMenu">
                     <li onclick="filterGames('all')" class="active">Todos</li>
-                    <li onclick="filterGames('nintendo')"><img src="./assets/images/nintendo.png" class="menu-logo nintendo"></li>
-                    <li onclick="filterGames('megadrive')"><img src="./assets/images/megadrive.png" class="menu-logo"></li>
-                    <li onclick="filterGames('playstation')"><img src="./assets/images/play.png" class="menu-logo"></li>
-                    <li onclick="filterGames('outros')"><img src="./assets/images/arcade.webp" class="menu-logo arcade"</li>
-                    <li <button class="theme-toggle" onclick="toggleTheme()">
+                    <li onclick="filterGames('nintendo')"><img src="./assets/images/nintendo.png" class="menu-logo nintendo"
+                        title="NES, SNES e N64"></li>
+                    <li onclick="filterGames('megadrive')"><img src="./assets/icons/SEGA_logo.png" class="menu-logo"
+                        title="Master System, Genesis e Sega CD"></li>
+                    <li onclick="filterGames('playstation')"><img src="./assets/icons/playstation_logo.png" class="menu-logo" style="height: 80%; width: auto;"
+                        title="Playstation 1"></li>
+                    <li onclick="filterGames('outros')"><img src="./assets/images/arcade.webp" class="menu-logo arcade"
+                        title="Arcade ou Fliperama"></li>
+                    <li <button class="theme-toggle" onclick="toggleTheme()" title="Claro / Escuro">
                         <span class="theme-icon" id="themeIcon">☀️</span>
-                    </button> </li>
+                    </button></li>
                 </ul>
             </nav>
 
