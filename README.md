@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Speedy Gonzales in Los Gatos Bandidos (USA)
+Commit: Disney's Hercules - Playstation
 
  -->
 

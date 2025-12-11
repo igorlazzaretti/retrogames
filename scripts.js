@@ -41,6 +41,7 @@ const games = [
     { title: 'Super Smash Bros', console: 'nintendo', image: 'assets/images/super-smash-bros.webp', url: 'games/super-smash-bros.html' },
     { title: 'Final Fantasy Chronicles - Chrono Trigger', console: 'playstation', image: 'assets/images/ff-chrono.webp', url: 'games/final-fantasy-chronicles-chrono-trigger.html' },
     { title: 'Speedy Gonzales in Los Gatos Bandidos', console: 'nintendo', image: 'assets/images/ligeirinho.webp', url: 'games/speedy-gonzales-in-los-gatos-bandidos.html' },
+    { title: 'Disneys Hercules', console: 'playstation', image: 'assets/images/disneys-hercules.webp', url: 'games/disneys-hercules.html' },
 ];
 
 let currentFilter = 'all';
