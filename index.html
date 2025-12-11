@@ -12,14 +12,18 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://igorlazzaretti.com/games" />
     <meta property="og:image" content="https://igorlazzaretti.github.io/retrogames/assets/images/og.webp" />
-    <meta property="og:image:width" content="1200" />  <meta property="og:image:height" content="630" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:description" content="Jogue clássicos do videogame diretamente no seu navegador, sem precisar de download.
         Reviva a nostalgia dos jogos retro!" />
 </head>
 
 <body data-theme="dark">
+    <div>
+        <div id="readingBar"></div>
+    </div>
     <header>
-        <div class="header-content" >
+        <div class="header-content">
             <div class="logo">🎮 RETROGAMES</div>
 
             <div class="hamburger" onclick="toggleMenu()">
@@ -30,17 +34,18 @@
             <nav>
                 <ul class="nav-menu" id="navMenu">
                     <li onclick="filterGames('all')" class="active">Todos</li>
-                    <li onclick="filterGames('nintendo')"><img src="./assets/images/nintendo.png" class="menu-logo nintendo"
-                        title="NES, SNES e N64"></li>
+                    <li onclick="filterGames('nintendo')"><img src="./assets/images/nintendo.png"
+                            class="menu-logo nintendo" title="NES, SNES e N64"></li>
                     <li onclick="filterGames('megadrive')"><img src="./assets/icons/SEGA_logo.png" class="menu-logo"
-                        title="Master System, Genesis e Sega CD"></li>
-                    <li onclick="filterGames('playstation')"><img src="./assets/icons/playstation_logo.png" class="menu-logo" style="height: 80%; width: auto;"
-                        title="Playstation 1"></li>
+                            title="Master System, Genesis e Sega CD"></li>
+                    <li onclick="filterGames('playstation')"><img src="./assets/icons/playstation_logo.png"
+                            class="menu-logo" style="height: 80%; width: auto;" title="Playstation 1"></li>
                     <li onclick="filterGames('outros')"><img src="./assets/images/arcade.webp" class="menu-logo arcade"
-                        title="Arcade ou Fliperama"></li>
+                            title="Arcade ou Fliperama"></li>
                     <li <button class="theme-toggle" onclick="toggleTheme()" title="Claro / Escuro">
                         <span class="theme-icon" id="themeIcon">☀️</span>
-                    </button></li>
+                        </button>
+                    </li>
                 </ul>
             </nav>
 
@@ -71,10 +76,12 @@
                     <div>
                         <h4>Outros Projetos</h4>
                         <ul>
-                            <li><a href="https://igorlazzaretti.github.io/leituras/"  target="_blank">leituras</a></li>
-                            <li><a href="https://ivangelica.com.br/"                  target="_blank">ivangélica.com</a></li>
-                            <li><a href="https://dossinodontologia.com.br/"           target="_blank">dossinodontologia.com</a></li>
-                            <li><a href="https://scratch.mit.edu/projects/846826964/" target="_blank">meu jogo harry-pong</a></li>
+                            <li><a href="https://igorlazzaretti.github.io/leituras/" target="_blank">leituras</a></li>
+                            <li><a href="https://ivangelica.com.br/" target="_blank">ivangélica.com</a></li>
+                            <li><a href="https://dossinodontologia.com.br/" target="_blank">dossinodontologia.com</a>
+                            </li>
+                            <li><a href="https://scratch.mit.edu/projects/846826964/" target="_blank">meu jogo
+                                    harry-pong</a></li>
                         </ul>
                     </div>
 
@@ -100,7 +107,8 @@
         </div>
 
         <div>
-            <p><strong>RETRO GAMES</strong> © Este site não captura nenhum dado seu. O Emulador é originado do site retrogames.cc</p>
+            <p><strong>RETRO GAMES</strong> © Este site não captura nenhum dado seu. O Emulador é originado do site
+                retrogames.cc</p>
         </div>
 
     </footer>

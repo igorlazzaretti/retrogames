@@ -103,3 +103,20 @@ function toggleMenu() {
 }
 
 renderGames();
+
+// Reading Bar / Barra de Leitura Horizontal
+window.onscroll = function() {
+    const readingEl = document.getElementById("readingBar");
+    if (!readingEl) return;
+
+    let winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    let height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    let scrolled = 0;
+
+    if (height > 0) {
+        scrolled = (winScroll / height) * 100;
+        if (!isFinite(scrolled) || isNaN(scrolled)) scrolled = 0;
+    }
+
+    readingEl.style.width = scrolled.toFixed(2) + "%";
+};

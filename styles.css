@@ -397,7 +397,25 @@ footer>div:last-child strong {
     }
 }
 
-/* Link Limpos */
+
+/* Reading bar (top progress indicator) */
+#readingBar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 4px;
+    width: 0%;
+    background: var(--accent);
+    z-index: 10000;
+    transition: width 260ms ease-out;
+}
+
+.reading-bar-placeholder {
+    /* keep page flow if needed for non-fixed fallback */
+    height: 4px;
+}
+
+/* Clear link style */
 .clear-link {
     text-decoration: none;
     color: inherit;
