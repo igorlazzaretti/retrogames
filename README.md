@@ -1,8 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Animated Header Background
-
+Commit: DKC 2 e 3
  -->
 
 <div align="center">

@@ -6,6 +6,8 @@ const games = [
     { title: 'Harry Potter And The Sorcerers Stone', console: 'playstation', image: 'assets/images/hp-stone.webp', url: 'games/hp-sorcerer-stone.html' },
     { title: 'Harry Potter and the Chamber of Secrets', console: 'playstation', image: 'assets/images/hp-chamber.webp', url: 'games/hp-chamber-of-secrets.html' },
     { title: 'Donkey Kong Country', console: 'nintendo', image: 'assets/images/dkc.png', url: 'games/donkey-kong-country.html' },
+    { title: 'Donkey Kong Country 2: Diddy\'s Kong Quest', console: 'nintendo', image: 'assets/images/dkc2.png', url: 'games/donkey-kong-country-2.html' },
+    { title: 'Donkey Kong Country 3', console: 'nintendo', image: 'assets/images/dkc3.png', url: 'games/donkey-kong-country-3.html' },
     { title: 'PES 2', console: 'playstation', image: 'assets/images/pes2.png', url: 'games/PES-2.html' },
     { title: 'Pac-Man', console: 'outros', image: 'assets/images/pac.png', url: 'games/pac-man.html' },
     { title: 'Dragon Ball Z - Final Bout', console: 'playstation', image: 'assets/images/db-gt-fb.png', url: 'games/db-gt-final-bout.html' },
