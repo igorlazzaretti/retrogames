@@ -46,6 +46,7 @@ const games = [
     { title: 'Speedy Gonzales in Los Gatos Bandidos', console: 'nintendo', image: 'assets/images/ligeirinho.webp', url: 'games/speedy-gonzales-in-los-gatos-bandidos.html' },
     { title: 'Disneys Hercules', console: 'playstation', image: 'assets/images/disneys-hercules.webp', url: 'games/disneys-hercules.html' },
     { title: 'Mercs', console: 'arcade', image: 'assets/images/mercs.webp', url: 'games/mercs.html' },
+    { title: 'Harvest Moon - Back to Nature', console: 'arcade', image: 'assets/images/harvest-moon.webp', url: 'games/harvest-moon.html' },
 ];
 
 let currentFilter = 'all';
