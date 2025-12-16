@@ -47,6 +47,7 @@ const games = [
     { title: 'Disneys Hercules', console: 'playstation', image: 'assets/images/disneys-hercules.webp', url: 'games/disneys-hercules.html' },
     { title: 'Mercs', console: 'arcade', image: 'assets/images/mercs.webp', url: 'games/mercs.html' },
     { title: 'Harvest Moon - Back to Nature', console: 'playstation', image: 'assets/images/harvest-moon.webp', url: 'games/harvest-moon.html' },
+    { title: 'Super Star Wars', console: 'nintendo', image: 'assets/images/super-star-wars.webp', url: 'games/super-star-wars.html' },
 ];
 
 let currentFilter = 'all';
