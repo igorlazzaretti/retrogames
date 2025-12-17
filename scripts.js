@@ -48,6 +48,7 @@ const games = [
     { title: 'Mercs', console: 'arcade', image: 'assets/images/mercs.webp', url: 'games/mercs.html' },
     { title: 'Harvest Moon - Back to Nature', console: 'playstation', image: 'assets/images/harvest-moon.webp', url: 'games/harvest-moon.html' },
     { title: 'Super Star Wars', console: 'nintendo', image: 'assets/images/super-star-wars.webp', url: 'games/super-star-wars.html' },
+    { title: 'Final Fight', console: 'nintendo', image: 'assets/images/final-fight.webp', url: 'games/final-fight.html' },
 ];
 
 let currentFilter = 'all';
