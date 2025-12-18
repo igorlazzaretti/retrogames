@@ -13,6 +13,7 @@ const games = [
     { title: 'Donkey Kong', console: 'arcade', image: 'assets/images/dk.webp', url: 'games/donkey-kong.html' },
     { title: 'Dragon Ball Z - Final Bout', console: 'playstation', image: 'assets/images/db-gt-fb.png', url: 'games/db-gt-final-bout.html' },
     { title: 'Top Gear', console: 'nintendo', image: 'assets/images/top-gear.png', url: 'games/top-gear.html' },
+    { title: 'Top Gear 2', console: 'nintendo', image: 'assets/images/top-gear-2.webp', url: 'games/top-gear-2.html' },
     { title: 'F-Zero', console: 'nintendo', image: 'assets/images/f-zero.png', url: 'games/f-zero.html' },
     { title: 'Super Ghoulsn Ghosts', console: 'nintendo', image: 'assets/images/super-ghouls.png', url: 'games/super-ghouls-n-ghost.html' },
     { title: 'Sunset Riders', console: 'nintendo', image: 'assets/images/sunset-riders.png', url: 'games/sunset-riders.html' },
