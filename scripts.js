@@ -50,6 +50,7 @@ const games = [
     { title: 'Harvest Moon - Back to Nature', console: 'playstation', image: 'assets/images/harvest-moon.webp', url: 'games/harvest-moon.html' },
     { title: 'Super Star Wars', console: 'nintendo', image: 'assets/images/super-star-wars.webp', url: 'games/super-star-wars.html' },
     { title: 'Final Fight', console: 'arcade', image: 'assets/images/final-fight-arcade.webp', url: 'games/final-fight-arcade.html' },
+    { title: 'Jojo\'s Bizarre Adventure', console: 'playstation', image: 'assets/images/jojo.webp', url: 'games/jojo-s-bizarre-adventure.html' },
 ];
 
 let currentFilter = 'all';
