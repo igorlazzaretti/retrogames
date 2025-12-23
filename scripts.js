@@ -26,6 +26,7 @@ const games = [
     { title: 'Pokemon FireRed', console: 'nintendo', image: 'assets/images/pokemon-fr.png', url: 'games/pokemon-fr.html' },
     { title: 'Top Gear 3000', console: 'nintendo', image: 'assets/images/tg3000.webp', url: 'games/top-gear-3000.html' },
     { title: 'International Superstar Soccer Deluxe', console: 'nintendo', image: 'assets/images/internacional-superstar-soccer-deluxe.png', url: 'games/international.html' },
+    { title: 'Futebol Brasileiro 96', console: 'nintendo', image: 'assets/images/futebol-brasileiro-966.webp', url: 'games/futebol-brasileiro-96.html' },
     { title: 'Road Rash - Jailbreak', console: 'playstation', image: 'assets/images/road-rash-jailbreak.png', url: 'games/road-rash-jailbreak.html' },
     { title: 'Goof Troop', console: 'nintendo', image: 'assets/images/goof-troop.png', url: 'games/goof-troop.html' },
     { title: 'Rock N Roll Racing', console: 'nintendo', image: 'assets/images/rock-n-roll-racing.png', url: 'games/rock-n-roll-racing.html' },
