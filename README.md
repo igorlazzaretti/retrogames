@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Footer Border Top Animated
+Commit: Header Border Bottom Animated
 
  -->
 
