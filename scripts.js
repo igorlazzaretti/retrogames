@@ -51,6 +51,7 @@ const games = [
     { title: 'Super Star Wars', console: 'nintendo', image: 'assets/images/super-star-wars.webp', url: 'games/super-star-wars.html' },
     { title: 'Final Fight', console: 'arcade', image: 'assets/images/final-fight-arcade.webp', url: 'games/final-fight-arcade.html' },
     { title: 'Jojo\'s Bizarre Adventure', console: 'playstation', image: 'assets/images/jojo.webp', url: 'games/jojo-s-bizarre-adventure.html' },
+    { title: 'Teenage Mutant Ninja Turtles', console: 'arcade', image: 'assets/images/teenage-mutant-ninja-turtles.webp', url: 'games/teenage-mutant-ninja-turtles.html' },
 ];
 
 let currentFilter = 'all';
