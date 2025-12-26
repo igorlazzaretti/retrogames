@@ -55,6 +55,7 @@ const games = [
     { title: 'Teenage Mutant Ninja Turtles', console: 'arcade', image: 'assets/images/teenage-mutant-ninja-turtles.webp', url: 'games/teenage-mutant-ninja-turtles.html' },
     { title: 'Space Invaders', console: 'arcade', image: 'assets/images/space-invaders.webp', url: 'games/space-invaders.html' },
     { title: 'Diddy Kong Racing', console: 'nintendo', image: 'assets/images/diddy-kong-racing.webp', url: 'games/diddy-kong-racing.html' },
+    { title: 'Marvel Vs Capcom', console: 'arcade', image: 'assets/images/marvel-vs-capcom.webp', url: 'games/marvel-vs-capcom.html' },
 ];
 
 let currentFilter = 'all';
@@ -93,7 +94,7 @@ function filterGames(console) {
 }
 
 function openGame(url) {
-    window.open(url, '_self');
+    window.open(url, '_blank');
 }
 
 function toggleTheme() {
