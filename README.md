@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Marvel vs Capcom
+Commit: Marvel vs Capcom - webp
 
  -->
 
