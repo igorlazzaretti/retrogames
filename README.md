@@ -1,6 +1,7 @@
 <!--
 
-ć
+:video_game: Retro Games
+Commit: Marvel vs Capcom - game info
 
  -->
 
