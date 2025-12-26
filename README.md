@@ -1,7 +1,6 @@
 <!--
 
-:video_game: Retro Games
-Commit: Marvel vs Capcom - html page and iframe
+ć
 
  -->
 
