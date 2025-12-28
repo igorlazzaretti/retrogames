@@ -173,7 +173,6 @@ main {
 }
 
 /* Search Bar */
-
 .search-div {
     margin-bottom: 2rem;
     content: center;
@@ -201,6 +200,7 @@ main {
     outline: none;
     box-shadow: 0 0 0 2px var(--accent);
 }
+/* End Search Bar */
 
 .games-grid {
     display: grid;
@@ -245,6 +245,13 @@ main {
     font-weight: 600;
     text-align: center;
     margin-top: 1rem;
+}
+.game-console {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    font-style: oblique;
+    text-align: center;
+    margin-bottom: 1rem;
 }
 
 

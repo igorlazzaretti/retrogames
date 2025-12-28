@@ -1,61 +1,61 @@
 
 const games = [
-    { title: 'Super Mario World', console: 'nintendo', image: 'assets/images/mario.webp', url: 'games/super-mario-world.html' },
-    { title: 'Mario Kart Deluxe', console: 'nintendo', image: 'assets/images/mario-kart.webp', url: 'games/mario-kart.html' },
-    { title: 'Crash Team Racing', console: 'playstation', image: 'assets/images/ctr.webp', url: 'games/ctr.html' },
-    { title: 'Harry Potter And The Sorcerers Stone', console: 'playstation', image: 'assets/images/hp-stone.webp', url: 'games/hp-sorcerer-stone.html' },
-    { title: 'Harry Potter and the Chamber of Secrets', console: 'playstation', image: 'assets/images/hp-chamber.webp', url: 'games/hp-chamber-of-secrets.html' },
-    { title: 'Donkey Kong Country', console: 'nintendo', image: 'assets/images/dkc.webp', url: 'games/donkey-kong-country.html' },
-    { title: 'Donkey Kong Country 2: Diddy\'s Kong Quest', console: 'nintendo', image: 'assets/images/dkc-2.webp', url: 'games/donkey-kong-country-2.html' },
-    { title: 'Donkey Kong Country 3', console: 'nintendo', image: 'assets/images/dkc-3.webp', url: 'games/donkey-kong-country-3.html' },
-    { title: 'PES 2', console: 'playstation', image: 'assets/images/pes2.png', url: 'games/PES-2.html' },
-    { title: 'Pac-Man', console: 'arcade', image: 'assets/images/pac.png', url: 'games/pac-man.html' },
-    { title: 'Donkey Kong', console: 'arcade', image: 'assets/images/dk.webp', url: 'games/donkey-kong.html' },
-    { title: 'Dragon Ball Z - Final Bout', console: 'playstation', image: 'assets/images/db-gt-fb.png', url: 'games/db-gt-final-bout.html' },
-    { title: 'Top Gear', console: 'nintendo', image: 'assets/images/top-gear.png', url: 'games/top-gear.html' },
-    { title: 'Top Gear 2', console: 'nintendo', image: 'assets/images/top-gear-2.webp', url: 'games/top-gear-2.html' },
-    { title: 'F-Zero', console: 'nintendo', image: 'assets/images/f-zero.png', url: 'games/f-zero.html' },
-    { title: 'Super Ghoulsn Ghosts', console: 'nintendo', image: 'assets/images/super-ghouls.png', url: 'games/super-ghouls-n-ghost.html' },
-    { title: 'Sunset Riders', console: 'nintendo', image: 'assets/images/sunset-riders.png', url: 'games/sunset-riders.html' },
-    { title: 'Super Bomberman 4', console: 'nintendo', image: 'assets/images/super-bomb-4.png', url: 'games/super-bomb-4.html' },
-    { title: 'Vigilante 8 - 2nd Offense', console: 'playstation', image: 'assets/images/vigilante-8.webp', url: 'games/vigilante-8-2nd-ofense.html' },
-    { title: 'Mario Kart 64', console: 'nintendo', image: 'assets/images/mario-kart-64.png', url: 'games/mario-kart-64.html' },
-    { title: 'Crash Bandicoot', console: 'playstation', image: 'assets/images/crash-bandi.webp', url: 'games/crash-bandi.html' },
-    { title: 'Michael Jackson Moonwalker', console: 'sega', image: 'assets/images/mj-moonwalker.png', url: 'games/mj-moonwalker.html' },
-    { title: 'Super Monaco GP', console: 'sega', image: 'assets/images/super-monaco-gp.webp', url: 'games/super-monaco-gp.html' },
-    { title: 'Pokemon FireRed', console: 'nintendo', image: 'assets/images/pokemon-fr.png', url: 'games/pokemon-fr.html' },
-    { title: 'Top Gear 3000', console: 'nintendo', image: 'assets/images/tg3000.webp', url: 'games/top-gear-3000.html' },
-    { title: 'International Superstar Soccer Deluxe', console: 'nintendo', image: 'assets/images/internacional-superstar-soccer-deluxe.png', url: 'games/international.html' },
-    { title: 'Futebol Brasileiro 96', console: 'nintendo', image: 'assets/images/futebol-brasileiro-96.webp', url: 'games/futebol-brasileiro-96.html' },
-    { title: 'Road Rash - Jailbreak', console: 'playstation', image: 'assets/images/road-rash-jailbreak.png', url: 'games/road-rash-jailbreak.html' },
-    { title: 'Goof Troop', console: 'nintendo', image: 'assets/images/goof-troop.png', url: 'games/goof-troop.html' },
-    { title: 'Rock N Roll Racing', console: 'nintendo', image: 'assets/images/rock-n-roll-racing.png', url: 'games/rock-n-roll-racing.html' },
-    { title: 'Sicari 2: The Brink of Time', console: 'nintendo', image: 'assets/images/sicari2.png', url: 'games/sicari-2-the-brink-of-time.html' },
-    { title: 'Tekken 3', console: 'playstation', image: 'assets/images/tekken3.webp', url: 'games/tekken-3.html' },
-    { title: 'Sonic', console: 'sega', image: 'assets/images/sonic.webp', url: 'games/sonic-the-headgehog.html' },
-    { title: 'Sonic 2', console: 'sega', image: 'assets/images/sonic2.webp', url: 'games/sonic-the-headgehog-2.html' },
-    { title: 'Tony Hawks Pro Skater', console: 'playstation', image: 'assets/images/tony.webp', url: 'games/tony-hawks-pro-skater.html' },
-    { title: 'Tony Hawks Pro Skater 2', console: 'playstation', image: 'assets/images/tony2.webp', url: 'games/tony-hawks-pro-skater-2.html' },
-    { title: 'Tony Hawks Pro Skater 3', console: 'playstation', image: 'assets/images/tony3.webp', url: 'games/tony-hawks-pro-skater-3.html' },
-    { title: 'Tony Hawks Pro Skater 4', console: 'playstation', image: 'assets/images/tony4.webp', url: 'games/tony-hawks-pro-skater-4.html' },
-    { title: 'Prince of Persia', console: 'sega', image: 'assets/images/prince-of-persia.webp', url: 'games/prince-of-persia.html' },
-    { title: '007 - The World Is Not Enough', console: 'playstation', image: 'assets/images/007-twine.webp', url: 'games/007-the-world-is-not-enough.html' },
-    { title: 'Spider-Man', console: 'playstation', image: 'assets/images/spider-man.webp', url: 'games/spider-man.html' },
-    { title: 'Aladdin', console: 'nintendo', image: 'assets/images/aladdin.webp', url: 'games/aladdin.html' },
-    { title: 'Turma da Monica: O Resgate', console: 'sega', image: 'assets/images/turma-da-monica.webp', url: 'games/turma-da-monica-o-resgate.html' },
-    { title: 'Super Smash Bros', console: 'nintendo', image: 'assets/images/super-smash-bros.webp', url: 'games/super-smash-bros.html' },
-    { title: 'Final Fantasy Chronicles - Chrono Trigger', console: 'playstation', image: 'assets/images/ff-chrono.webp', url: 'games/final-fantasy-chronicles-chrono-trigger.html' },
-    { title: 'Speedy Gonzales in Los Gatos Bandidos', console: 'nintendo', image: 'assets/images/ligeirinho.webp', url: 'games/speedy-gonzales-in-los-gatos-bandidos.html' },
-    { title: 'Disneys Hercules', console: 'playstation', image: 'assets/images/disneys-hercules.webp', url: 'games/disneys-hercules.html' },
-    { title: 'Mercs', console: 'arcade', image: 'assets/images/mercs.webp', url: 'games/mercs.html' },
-    { title: 'Harvest Moon - Back to Nature', console: 'playstation', image: 'assets/images/harvest-moon.webp', url: 'games/harvest-moon.html' },
-    { title: 'Super Star Wars', console: 'nintendo', image: 'assets/images/super-star-wars.webp', url: 'games/super-star-wars.html' },
-    { title: 'Final Fight', console: 'arcade', image: 'assets/images/final-fight-arcade.webp', url: 'games/final-fight-arcade.html' },
-    { title: 'Jojo\'s Bizarre Adventure', console: 'playstation', image: 'assets/images/jojo.webp', url: 'games/jojo-s-bizarre-adventure.html' },
-    { title: 'Teenage Mutant Ninja Turtles', console: 'arcade', image: 'assets/images/teenage-mutant-ninja-turtles.webp', url: 'games/teenage-mutant-ninja-turtles.html' },
-    { title: 'Space Invaders', console: 'arcade', image: 'assets/images/space-invaders.webp', url: 'games/space-invaders.html' },
-    { title: 'Diddy Kong Racing', console: 'nintendo', image: 'assets/images/diddy-kong-racing.webp', url: 'games/diddy-kong-racing.html' },
-    { title: 'Marvel Vs Capcom', console: 'arcade', image: 'assets/images/marvel-vs-capcom.webp', url: 'games/marvel-vs-capcom.html' },
+    { title: 'Super Mario World', company: 'nintendo', console: 'SNES', image: 'assets/images/mario.webp', url: 'games/super-mario-world.html' },
+    { title: 'Mario Kart Deluxe', company: 'nintendo', console: 'SNES', image: 'assets/images/mario-kart.webp', url: 'games/mario-kart.html' },
+    { title: 'Crash Team Racing', company: 'playstation', console: 'Playstation 1', image: 'assets/images/ctr.webp', url: 'games/ctr.html' },
+    { title: 'Harry Potter And The Sorcerers Stone', company: 'playstation', console: 'Playstation 1', image: 'assets/images/hp-stone.webp', url: 'games/hp-sorcerer-stone.html' },
+    { title: 'Harry Potter and the Chamber of Secrets', company: 'playstation', console: 'Playstation 1', image: 'assets/images/hp-chamber.webp', url: 'games/hp-chamber-of-secrets.html' },
+    { title: 'Donkey Kong Country', company: 'nintendo', console: 'SNES', image: 'assets/images/dkc.webp', url: 'games/donkey-kong-country.html' },
+    { title: 'Donkey Kong Country 2: Diddy\'s Kong Quest', company: 'nintendo', console: 'SNES', image: 'assets/images/dkc-2.webp', url: 'games/donkey-kong-country-2.html' },
+    { title: 'Donkey Kong Country 3', company: 'nintendo', console: 'SNES', image: 'assets/images/dkc-3.webp', url: 'games/donkey-kong-country-3.html' },
+    { title: 'PES 2', company: 'playstation', console: 'Playstation 1', image: 'assets/images/pes2.png', url: 'games/PES-2.html' },
+    { title: 'Pac-Man', company: 'arcade', console: 'Fliperama', image: 'assets/images/pac.png', url: 'games/pac-man.html' },
+    { title: 'Donkey Kong', company: 'arcade', console: 'Fliperama', image: 'assets/images/dk.webp', url: 'games/donkey-kong.html' },
+    { title: 'Dragon Ball Z - Final Bout', company: 'playstation', console: 'Playstation 1', image: 'assets/images/db-gt-fb.png', url: 'games/db-gt-final-bout.html' },
+    { title: 'Top Gear', company: 'nintendo', console: 'SNES', image: 'assets/images/top-gear.png', url: 'games/top-gear.html' },
+    { title: 'Top Gear 2', company: 'nintendo', console: 'SNES', image: 'assets/images/top-gear-2.webp', url: 'games/top-gear-2.html' },
+    { title: 'F-Zero', company: 'nintendo', console: 'SNES', image: 'assets/images/f-zero.png', url: 'games/f-zero.html' },
+    { title: 'Super Ghoulsn Ghosts', company: 'nintendo', console: 'SNES', image: 'assets/images/super-ghouls.png', url: 'games/super-ghouls-n-ghost.html' },
+    { title: 'Sunset Riders', company: 'nintendo', console: 'SNES', image: 'assets/images/sunset-riders.png', url: 'games/sunset-riders.html' },
+    { title: 'Super Bomberman 4', company: 'nintendo', console: 'SNES', image: 'assets/images/super-bomb-4.png', url: 'games/super-bomb-4.html' },
+    { title: 'Vigilante 8 - 2nd Offense', company: 'playstation', console: 'Playstation 1', image: 'assets/images/vigilante-8.webp', url: 'games/vigilante-8-2nd-ofense.html' },
+    { title: 'Mario Kart 64', company: 'nintendo', console: 'Nintendo 64', image: 'assets/images/mario-kart-64.png', url: 'games/mario-kart-64.html' },
+    { title: 'Crash Bandicoot', company: 'playstation', console: 'Playstation 1', image: 'assets/images/crash-bandi.webp', url: 'games/crash-bandi.html' },
+    { title: 'Michael Jackson Moonwalker', company: 'sega', console: 'Master System', image: 'assets/images/mj-moonwalker.png', url: 'games/mj-moonwalker.html' },
+    { title: 'Super Monaco GP', company: 'sega', console: 'Mega Drive', image: 'assets/images/super-monaco-gp.webp', url: 'games/super-monaco-gp.html' },
+    { title: 'Pokemon FireRed', company: 'nintendo', console: 'Gameboy Advance', image: 'assets/images/pokemon-fr.png', url: 'games/pokemon-fr.html' },
+    { title: 'Top Gear 3000', company: 'nintendo', console: 'SNES', image: 'assets/images/tg3000.webp', url: 'games/top-gear-3000.html' },
+    { title: 'International Superstar Soccer Deluxe', company: 'nintendo', console: 'SNES', image: 'assets/images/internacional-superstar-soccer-deluxe.png', url: 'games/international.html' },
+    { title: 'Futebol Brasileiro 96', company: 'nintendo', console: 'SNES', image: 'assets/images/futebol-brasileiro-96.webp', url: 'games/futebol-brasileiro-96.html' },
+    { title: 'Road Rash - Jailbreak', company: 'playstation', console: 'Playstation 1', image: 'assets/images/road-rash-jailbreak.png', url: 'games/road-rash-jailbreak.html' },
+    { title: 'Goof Troop', company: 'nintendo', console: 'SNES', image: 'assets/images/goof-troop.png', url: 'games/goof-troop.html' },
+    { title: 'Rock N Roll Racing', company: 'nintendo', console: 'SNES', image: 'assets/images/rock-n-roll-racing.png', url: 'games/rock-n-roll-racing.html' },
+    { title: 'Sicari 2: The Brink of Time', company: 'nintendo', console: 'SNES', image: 'assets/images/sicari2.png', url: 'games/sicari-2-the-brink-of-time.html' },
+    { title: 'Tekken 3', company: 'playstation', console: 'Playstation 1', image: 'assets/images/tekken3.webp', url: 'games/tekken-3.html' },
+    { title: 'Sonic', company: 'sega', console: 'Master System', image: 'assets/images/sonic.webp', url: 'games/sonic-the-headgehog.html' },
+    { title: 'Sonic 2', company: 'sega', console: 'Master System', image: 'assets/images/sonic2.webp', url: 'games/sonic-the-headgehog-2.html' },
+    { title: 'Tony Hawks Pro Skater', company: 'playstation', console: 'Playstation 1', image: 'assets/images/tony.webp', url: 'games/tony-hawks-pro-skater.html' },
+    { title: 'Tony Hawks Pro Skater 2', company: 'playstation', console: 'Playstation 1', image: 'assets/images/tony2.webp', url: 'games/tony-hawks-pro-skater-2.html' },
+    { title: 'Tony Hawks Pro Skater 3', company: 'playstation', console: 'Playstation 1', image: 'assets/images/tony3.webp', url: 'games/tony-hawks-pro-skater-3.html' },
+    { title: 'Tony Hawks Pro Skater 4', company: 'playstation', console: 'Playstation 1', image: 'assets/images/tony4.webp', url: 'games/tony-hawks-pro-skater-4.html' },
+    { title: 'Prince of Persia', company: 'sega', console: 'Master System', image: 'assets/images/prince-of-persia.webp', url: 'games/prince-of-persia.html' },
+    { title: '007 - The World Is Not Enough', company: 'playstation', console: 'Playstation 1', image: 'assets/images/007-twine.webp', url: 'games/007-the-world-is-not-enough.html' },
+    { title: 'Spider-Man', company: 'playstation', console: 'Playstation 1', image: 'assets/images/spider-man.webp', url: 'games/spider-man.html' },
+    { title: 'Aladdin', company: 'nintendo', console: 'SNES', image: 'assets/images/aladdin.webp', url: 'games/aladdin.html' },
+    { title: 'Turma da Monica: O Resgate', company: 'sega', console: 'Master System', image: 'assets/images/turma-da-monica.webp', url: 'games/turma-da-monica-o-resgate.html' },
+    { title: 'Super Smash Bros', company: 'nintendo', console: 'Nintendo 64', image: 'assets/images/super-smash-bros.webp', url: 'games/super-smash-bros.html' },
+    { title: 'Final Fantasy Chronicles - Chrono Trigger', company: 'playstation', console: 'Playstation 1', image: 'assets/images/ff-chrono.webp', url: 'games/final-fantasy-chronicles-chrono-trigger.html' },
+    { title: 'Speedy Gonzales in Los Gatos Bandidos', company: 'nintendo', console: 'SNES', image: 'assets/images/ligeirinho.webp', url: 'games/speedy-gonzales-in-los-gatos-bandidos.html' },
+    { title: 'Disneys Hercules', company: 'playstation', console: 'Playstation 1', image: 'assets/images/disneys-hercules.webp', url: 'games/disneys-hercules.html' },
+    { title: 'Mercs', company: 'arcade', console:'Fliperama', image: 'assets/images/mercs.webp', url: 'games/mercs.html' },
+    { title: 'Harvest Moon - Back to Nature', company: 'playstation', console: 'Playstation 1', image: 'assets/images/harvest-moon.webp', url: 'games/harvest-moon.html' },
+    { title: 'Super Star Wars', company: 'nintendo', console: 'SNES', image: 'assets/images/super-star-wars.webp', url: 'games/super-star-wars.html' },
+    { title: 'Final Fight', company: 'arcade', console:'Fliperama', image: 'assets/images/final-fight-arcade.webp', url: 'games/final-fight-arcade.html' },
+    { title: 'Jojo\'s Bizarre Adventure', company: 'playstation', console: 'Playstation 1', image: 'assets/images/jojo.webp', url: 'games/jojo-s-bizarre-adventure.html' },
+    { title: 'Teenage Mutant Ninja Turtles', company: 'arcade', console:'Fliperama', image: 'assets/images/teenage-mutant-ninja-turtles.webp', url: 'games/teenage-mutant-ninja-turtles.html' },
+    { title: 'Space Invaders', company: 'arcade', console:'Fliperama', image: 'assets/images/space-invaders.webp', url: 'games/space-invaders.html' },
+    { title: 'Diddy Kong Racing', company: 'nintendo', console: 'Nintendo 64', image: 'assets/images/diddy-kong-racing.webp', url: 'games/diddy-kong-racing.html' },
+    { title: 'Marvel Vs Capcom', company: 'arcade', console:'Fliperama', image: 'assets/images/marvel-vs-capcom.webp', url: 'games/marvel-vs-capcom.html' },
 ];
 
 let currentFilter = 'all';
@@ -64,7 +64,7 @@ function renderGames() {
     const grid = document.getElementById('gamesGrid');
     const filteredGames = currentFilter === 'all'
         ? games
-        : games.filter(game => game.console === currentFilter);
+        : games.filter(game => game.company === currentFilter);
 
     grid.innerHTML = filteredGames.map(game => `
                 <div class="game-card" onclick="openGame('${game.url}')">
@@ -72,6 +72,7 @@ function renderGames() {
                         <img src="${game.image}" alt="${game.title}" class="game-img">
                     </div>
                     <div class="game-title">${game.title}</div>
+                    <div class="game-console">${game.console}</div>
                 </div>
             `).join('');
 }
@@ -168,6 +169,7 @@ function searchGames() {
                         <img src="${game.image}" alt="${game.title}" class="game-img">
                     </div>
                     <div class="game-title">${game.title}</div>
+                    <div class="game-console">${game.console}</div>
                 </div>
             `).join('');
 }
