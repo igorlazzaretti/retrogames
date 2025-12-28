@@ -151,4 +151,24 @@ backToTopBtn.addEventListener('click', () => {
 });
 // End Reading Bar / Fim Barra de Leitura Horizontal
 
-// 
+// Search Games / Buscar Jogos
+function searchGames() {
+    const input = document.getElementById('searchInput');
+    const filter = input.value.toLowerCase();
+    const grid = document.getElementById('gamesGrid');
+
+    const filteredGames = games.filter(game =>
+        game.title.toLowerCase().includes(filter) &&
+        (currentFilter === 'all' || game.console === currentFilter)
+    );
+
+    grid.innerHTML = filteredGames.map(game => `
+                <div class="game-card" onclick="openGame('${game.url}')">
+                    <div class="game-image">
+                        <img src="${game.image}" alt="${game.title}" class="game-img">
+                    </div>
+                    <div class="game-title">${game.title}</div>
+                </div>
+            `).join('');
+}
+// End Search Games / Fim Buscar Jogos
