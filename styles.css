@@ -365,6 +365,31 @@ footer>div:last-child strong {
     }
 }
 
+/* Scroll-to-top button */
+.back-to-top-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 1vw;
+    background-color: transparent;
+    border: none;
+    border-radius: 10%;
+    cursor: pointer;
+    font-size: 1.8rem;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px var(--shadow);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    z-index: 1000;
+}
+
+.back-to-top-btn:hover {
+    background-color: transparent;
+    transform: scale(1.1)
+}
+/* End Scroll-to-top button */
+
+
 .hamburger {
     display: none;
     flex-direction: column;

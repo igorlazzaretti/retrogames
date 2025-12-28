@@ -134,3 +134,21 @@ window.onscroll = function() {
 
     readingEl.style.width = scrolled.toFixed(2) + "%";
 };
+
+// Back to Top Button / Botão Voltar ao Topo
+const backToTopBtn = document.getElementById("backToTopBtn");
+
+window.addEventListener('scroll', () => {
+    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+        backToTopBtn.style.display = "block";
+    } else {
+        backToTopBtn.style.display = "none";
+    }
+});
+
+backToTopBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+// End Reading Bar / Fim Barra de Leitura Horizontal
+
+// 
