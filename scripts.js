@@ -56,6 +56,7 @@ const games = [
     { title: 'Space Invaders', company: 'arcade', console:'Fliperama', image: 'assets/images/space-invaders.webp', url: 'games/space-invaders.html' },
     { title: 'Diddy Kong Racing', company: 'nintendo', console: 'Nintendo 64', image: 'assets/images/diddy-kong-racing.webp', url: 'games/diddy-kong-racing.html' },
     { title: 'Marvel Vs Capcom', company: 'arcade', console:'Fliperama', image: 'assets/images/marvel-vs-capcom.webp', url: 'games/marvel-vs-capcom.html' },
+    { title: 'Toy Story 2 - Buzz Lightyear to the Rescue!', company: 'nintendo', console:'Nintendo 64', image: 'assets/images/nintendo/N64/toy-story-2.webp', url: 'nintendo/N64/toy-story-2-buzz-lightyear-to-the-rescue.html' },
 ];
 
 let currentFilter = 'all';
