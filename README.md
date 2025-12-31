@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Toy Story 2 - Buzz Lightyear to the Rescue! - Game Info and iframe
+Commit: Bust-a-move / SNES / html file
 
  -->
 
