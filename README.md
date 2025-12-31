@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Cartoon Network Racing / Nintendo DS / html
+Commit: Cartoon Network Racing / Nintendo DS / Script
 
  -->
 

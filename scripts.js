@@ -58,6 +58,7 @@ const games = [
     { title: 'Marvel Vs Capcom', company: 'arcade', console:'Fliperama', image: 'assets/images/marvel-vs-capcom.webp', url: 'games/marvel-vs-capcom.html' },
     { title: 'Toy Story 2 - Buzz Lightyear to the Rescue!', company: 'nintendo', console:'Nintendo 64', image: 'assets/images/nintendo/N64/toy-story-2.webp', url: 'nintendo/N64/toy-story-2-buzz-lightyear-to-the-rescue.html' },
     { title: 'Bust-A-Move', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/bust-a-move.webp', url: 'nintendo/SNES/bust-a-move.html' },
+    { title: 'Cartoon Network Racing', company: 'nintendo', console:'Nintendo DS', image: 'assets/images/nintendo/Nintendo-DS/cartoon-network-racing.webp', url: 'nintendo/Nintendo-DS/cartoon-network-racing.html' },
 ];
 
 let currentFilter = 'all';
