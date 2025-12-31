@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Choplifter III / SNES  / Script
+Commit: Choplifter III / SNES  / HTML file
 
  -->
 
