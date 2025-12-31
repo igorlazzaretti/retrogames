@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Bust-a-move / SNES / html file
+Commit: Bust-a-move / SNES / case
 
  -->
 
