@@ -60,6 +60,7 @@ const games = [
     { title: 'Bust-A-Move', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/bust-a-move.webp', url: 'nintendo/SNES/bust-a-move.html' },
     { title: 'Cartoon Network Racing', company: 'nintendo', console:'Nintendo DS', image: 'assets/images/nintendo/Nintendo-DS/cartoon-network-racing.webp', url: 'nintendo/Nintendo-DS/cartoon-network-racing.html' },
     { title: 'Choplifter III - Rescue Survive', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/choplifter-III.webp', url: 'nintendo/SNES/choplifter-III.html' },
+    { title: 'The Lion King', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/the-lion-king.webp', url: 'nintendo/SNES/the-lion-king.html' },
 ];
 
 let currentFilter = 'all';

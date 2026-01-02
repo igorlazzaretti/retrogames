@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: The Lion King / SNES  / Img
+Commit: The Lion King / SNES  / Script
 
  -->
 
