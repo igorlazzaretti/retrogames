@@ -61,7 +61,7 @@ const games = [
     { title: 'Cartoon Network Racing', company: 'nintendo', console:'Nintendo DS', image: 'assets/images/nintendo/Nintendo-DS/cartoon-network-racing.webp', url: 'nintendo/Nintendo-DS/cartoon-network-racing.html' },
     { title: 'Choplifter III - Rescue Survive', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/choplifter-III.webp', url: 'nintendo/SNES/choplifter-III.html' },
     { title: 'The Lion King', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/the-lion-king.webp', url: 'nintendo/SNES/the-lion-king.html' },
-    { title: 'Twisted Metal: Small Brawl', company: 'sony', console:'Playstation 1', image: 'assets/images/ps1/twisted-metal-small-brawl.webp', url: 'sony/playstation-1/twisted-metal-small-brawl.html' },
+    { title: 'Twisted Metal: Small Brawl', company: 'sony', console:'Playstation 1', image: 'assets/images/sony/playstation-1/twisted-metal-small-brawl.webp', url: 'sony/playstation-1/twisted-metal-small-brawl.html' },
 ];
 
 let currentFilter = 'all';

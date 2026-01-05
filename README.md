@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Twisted Metal / PS1 / Html
+Commit: Twisted Metal / PS1 / script
 
  -->
 
