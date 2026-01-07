@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: SNES / Lamborghini American Challeng / script
+Commit: SNES / Lamborghini American Challeng / html
 
  -->
 
