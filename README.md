@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: SNES / Lamborghini American Challeng / html
+Commit: SNES / The Legend of the Mystical Ninja / html
 
  -->
 
