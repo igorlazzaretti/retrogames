@@ -63,6 +63,7 @@ const games = [
     { title: 'The Lion King', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/the-lion-king.webp', url: 'nintendo/SNES/the-lion-king.html' },
     { title: 'Twisted Metal: Small Brawl', company: 'sony', console:'Playstation 1', image: 'assets/images/sony/playstation-1/twisted-metal-small-brawl.webp', url: 'sony/playstation-1/twisted-metal-small-brawl.html' },
     { title: 'Lamborghini: American Challenge', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/lamborghini-american-challenge.webp', url: 'nintendo/SNES/lamborghini-american-challenge.html' },
+    { title: 'The Legend of The Mystical Ninja', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/the-legend-of-the-mystical-ninja.webp', url: 'nintendo/SNES/the-legend-of-the-mystical-ninja.html' },
 ];
 
 let currentFilter = 'all';
