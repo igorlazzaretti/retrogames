@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Game Title margin fix
+Commit: Logo Font Update
 
  -->
 
