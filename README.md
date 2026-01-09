@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Playstation 1 / Jackie Chan Stuntmaster / Script
+Commit: Playstation 1 / Jackie Chan Stuntmaster / html file
 
  -->
 
