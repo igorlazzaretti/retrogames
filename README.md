@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: SNES / The Legend of the Mystical Ninja / script
+Commit: Playstation 1 / Jackie Chan Stuntmaster / Script
 
  -->
 
