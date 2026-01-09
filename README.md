@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: GBC / Harry Potter and the Sorcerer's Stone / HTML, img and fixes
+Commit: Game Title margin fix
 
  -->
 
