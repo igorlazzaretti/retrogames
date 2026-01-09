@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Playstation 1 / Jackie Chan Stuntmaster / html fix
+Commit: GBC / Harry Potter and the Sorcerer's Stone / Script
 
  -->
 
