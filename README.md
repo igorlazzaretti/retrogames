@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: GBC / Harry Potter and the Sorcerer's Stone / Script
+Commit: GBC / Harry Potter and the Sorcerer's Stone / HTML, img and fixes
 
  -->
 

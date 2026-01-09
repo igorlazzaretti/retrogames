@@ -65,7 +65,7 @@ const games = [
     { title: 'Lamborghini: American Challenge', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/lamborghini-american-challenge.webp', url: 'nintendo/SNES/lamborghini-american-challenge.html' },
     { title: 'The Legend of The Mystical Ninja', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/the-legend-of-the-mystical-ninja.webp', url: 'nintendo/SNES/the-legend-of-the-mystical-ninja.html' },
     { title: 'Jackie Chan Stuntmaster', company: 'sony', console:'Playstation 1', image: 'assets/images/sony/playstation-1/jackie-chan-stuntmaster.webp', url: 'sony/playstation-1/jackie-chan-stuntmaster.html' },
-    { title: 'Harry Potter and the Sorcerer\'s Stone', company: 'nintendo', console:'Game Boy Color', image: 'assets/images/nintendo/game-boy-color/hp-sorcer-stone-gbc.webp', url: 'nintendo/game-boy-color/harry-potter-and-the-sorcerers-stone.html' },
+    { title: 'Harry Potter and the Sorcerer\'s Stone', company: 'nintendo', console:'Game Boy Color', image: 'assets/images/nintendo/GBC/hp-and-the-sorcerers-stone-gbc.webp', url: 'nintendo/GBC/harry-potter-and-the-sorcerers-stone.html' },
 ];
 
 let currentFilter = 'all';
