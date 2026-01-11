@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Update / Play / 07 twine
+Commit: Update / SNES / Aladdin
 
  -->
 

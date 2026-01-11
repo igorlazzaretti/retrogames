@@ -41,7 +41,7 @@ const games = [
     { title: 'Prince of Persia', company: 'sega', console: 'Master System', image: 'assets/images/prince-of-persia.webp', url: 'games/prince-of-persia.html' },
     { title: '007 - The World Is Not Enough', company: 'sony', console: 'Playstation 1', image: 'assets/images/sony/playstation-1/007-twine.webp', url: 'sony/playstation-1/007-the-world-is-not-enough.html' },
     { title: 'Spider-Man', company: 'sony', console: 'Playstation 1', image: 'assets/images/spider-man.webp', url: 'games/spider-man.html' },
-    { title: 'Aladdin', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/aladdin.webp', url: 'games/aladdin.html' },
+    { title: 'Aladdin', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/nintendo/SNES/aladdin.webp', url: 'nintendo/SNES/aladdin.html' },
     { title: 'Turma da Monica: O Resgate', company: 'sega', console: 'Master System', image: 'assets/images/turma-da-monica.webp', url: 'games/turma-da-monica-o-resgate.html' },
     { title: 'Super Smash Bros', company: 'nintendo', console: 'Nintendo 64', image: 'assets/images/super-smash-bros.webp', url: 'games/super-smash-bros.html' },
     { title: 'Final Fantasy Chronicles - Chrono Trigger', company: 'sony', console: 'Playstation 1', image: 'assets/images/ff-chrono.webp', url: 'games/final-fantasy-chronicles-chrono-trigger.html' },
