@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Update / SNES / Aladdin
+Commit: Update / Readme
 
  -->
 
@@ -17,7 +17,7 @@ Este repositório contém a versão local do site "Retro Games". Ele não depend
 
 - HTML e CSS para a estrutura do site.
 - Javascript para o funcionamento do site e a criação de novos games.
-- Confira o projeto neste <a href="https://igorlazzaretti.github.io/retrogames/"> link</a>.
+- Divirta-se neste site <a href="https://retrogames.meuweb.site">retrogames.meuweb.site</a>.
 - Fotos do Projeto neste <a href="https://flic.kr/s/aHBqjCyqp9">link</a>.
 
 ## 🚀 Tecnologias Utilizadas
