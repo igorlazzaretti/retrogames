@@ -39,7 +39,7 @@ const games = [
     { title: 'Tony Hawks Pro Skater 3', company: 'sony', console: 'Playstation 1', image: 'assets/images/tony3.webp', url: 'games/tony-hawks-pro-skater-3.html' },
     { title: 'Tony Hawks Pro Skater 4', company: 'sony', console: 'Playstation 1', image: 'assets/images/tony4.webp', url: 'games/tony-hawks-pro-skater-4.html' },
     { title: 'Prince of Persia', company: 'sega', console: 'Master System', image: 'assets/images/prince-of-persia.webp', url: 'games/prince-of-persia.html' },
-    { title: '007 - The World Is Not Enough', company: 'sony', console: 'Playstation 1', image: 'assets/images/007-twine.webp', url: 'games/007-the-world-is-not-enough.html' },
+    { title: '007 - The World Is Not Enough', company: 'sony', console: 'Playstation 1', image: 'assets/images/sony/playstation-1/007-twine.webp', url: 'sony/playstation-1/007-the-world-is-not-enough.html' },
     { title: 'Spider-Man', company: 'sony', console: 'Playstation 1', image: 'assets/images/spider-man.webp', url: 'games/spider-man.html' },
     { title: 'Aladdin', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/aladdin.webp', url: 'games/aladdin.html' },
     { title: 'Turma da Monica: O Resgate', company: 'sega', console: 'Master System', image: 'assets/images/turma-da-monica.webp', url: 'games/turma-da-monica-o-resgate.html' },
