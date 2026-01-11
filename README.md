@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: SNES Demolition Man / script
+Commit: SNES Demolition Man / html
 
  -->
 
