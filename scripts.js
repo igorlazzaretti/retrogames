@@ -2,7 +2,7 @@
 const games = [
     { title: 'Super Mario World', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/mario.webp', url: 'games/super-mario-world.html' },
     { title: 'Mario Kart Deluxe', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/mario-kart.webp', url: 'games/mario-kart.html' },
-    { title: 'Crash Team Racing', company: 'sony', console: 'Playstation 1', image: 'assets/images/ctr.webp', url: 'games/ctr.html' },
+    { title: 'Crash Team Racing', company: 'sony', console: 'Playstation 1', image: 'assets/images/sony/playstation-1/ctr.webp', url: 'sony/playstation-1/ctr.html' },
     { title: 'Harry Potter And The Sorcerers Stone', company: 'sony', console: 'Playstation 1', image: 'assets/images/hp-stone.webp', url: 'games/hp-sorcerer-stone.html' },
     { title: 'Harry Potter and the Chamber of Secrets', company: 'sony', console: 'Playstation 1', image: 'assets/images/hp-chamber.webp', url: 'games/hp-chamber-of-secrets.html' },
     { title: 'Donkey Kong Country', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/dkc.webp', url: 'games/donkey-kong-country.html' },
