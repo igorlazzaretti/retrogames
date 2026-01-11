@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Logo Font Update
+Commit: SNES Demolition Man / case
 
  -->
 
