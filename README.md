@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: Update / Play / CTR
+Commit: Update / Play / Crash Bandicoot
 
  -->
 

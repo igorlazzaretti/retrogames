@@ -20,7 +20,7 @@ const games = [
     { title: 'Super Bomberman 4', company: 'nintendo', console: 'Super Nintendo', image: 'assets/images/super-bomb-4.png', url: 'games/super-bomb-4.html' },
     { title: 'Vigilante 8 - 2nd Offense', company: 'sony', console: 'Playstation 1', image: 'assets/images/vigilante-8.webp', url: 'games/vigilante-8-2nd-ofense.html' },
     { title: 'Mario Kart 64', company: 'nintendo', console: 'Nintendo 64', image: 'assets/images/mario-kart-64.png', url: 'games/mario-kart-64.html' },
-    { title: 'Crash Bandicoot', company: 'sony', console: 'Playstation 1', image: 'assets/images/crash-bandi.webp', url: 'games/crash-bandi.html' },
+    { title: 'Crash Bandicoot', company: 'sony', console: 'Playstation 1', image: 'assets/images/sony/playstation-1/crash-bandi.webp', url: 'sony/playstation-1/crash-bandicoot.html' },
     { title: 'Michael Jackson Moonwalker', company: 'sega', console: 'Master System', image: 'assets/images/mj-moonwalker.png', url: 'games/mj-moonwalker.html' },
     { title: 'Super Monaco GP', company: 'sega', console: 'Mega Drive', image: 'assets/images/super-monaco-gp.webp', url: 'games/super-monaco-gp.html' },
     { title: 'Pokemon FireRed', company: 'nintendo', console: 'Gameboy Advance', image: 'assets/images/pokemon-fr.png', url: 'games/pokemon-fr.html' },
