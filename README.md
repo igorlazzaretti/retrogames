@@ -1,7 +1,7 @@
 <!--
 
 :video_game: Retro Games
-Commit: PS1 / Space Jam / html
+Commit: PS1 / Space Jam / script
 
  -->
 

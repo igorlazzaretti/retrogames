@@ -67,6 +67,7 @@ const games = [
     { title: 'Jackie Chan Stuntmaster', company: 'sony', console:'Playstation 1', image: 'assets/images/sony/playstation-1/jackie-chan-stuntmaster.webp', url: 'sony/playstation-1/jackie-chan-stuntmaster.html' },
     { title: 'Harry Potter and the Sorcerer\'s Stone', company: 'nintendo', console:'Game Boy Color', image: 'assets/images/nintendo/GBC/hp-and-the-sorcerers-stone-gbc.webp', url: 'nintendo/GBC/harry-potter-and-the-sorcerers-stone.html' },
     { title: 'Demolition Man', company: 'nintendo', console:'Super Nintendo', image: 'assets/images/nintendo/SNES/demolition-man.webp', url: 'nintendo/SNES/demolition-man.html' },
+    { title: 'Space Jam', company: 'sony', console:'Playstation 1', image: 'assets/images/sony/playstation-1/space-jam.webp', url: 'sony/playstation-1/space-jam.html' },
 ];
 
 let currentFilter = 'all';
